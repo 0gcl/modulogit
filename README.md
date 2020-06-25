@@ -1,1 +1,1 @@
-github to pc
+from git to mac
